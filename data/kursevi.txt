@@ -1,0 +1,6 @@
+#id; naziv; cena; uvecanje cene; jezikId; predavacId
+53453123;napredni nemački;45341;265718477;false
+4654753;italijanski osnovni;42353645;265718477;false
+775268761;ruski za turističke vodiče;778563;265718477;false
+2111823211;sdqwd;124234;797632824;true
+391050487;gerger;768574;2050721811;true

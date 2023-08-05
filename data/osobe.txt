@@ -1,0 +1,29 @@
+#OSOBE: id; korisnickoIme; lozinka; ime; prezime; uloga; datumRodjenja; pol; telefon; adresa
+#UCENICI: id; korisnickoIme; lozinka; ime; prezime; uloga; datumRodjenja; pol; telefon; adresa; stanjeRacuna
+#SEKRETAR: korisnickoIme; lozinka; ime; prezime; uloga; datumRodjenja; pol; telefon; adresa; strucna sprema; godine staza; koeficijent spreme
+#PREDAVAC: korisnickoIme; lozinka; ime; prezime; uloga; datumRodjenja; pol; telefon; adresa; strucna sprema; godine staza; koeficijent spreme
+1878019821; qwer; 1234; tyjuty; sdfwef; 3; 1.1.1991.; muski; 4123; gergrger; 1000.0; false
+15365356; ; ; Mitar; wdqwdq; 3; 1.1.1991.; muski; 423412; dfwef; 10000.0; true
+797632824; pmarryatt1; l4lhqkhXWZK; Pincas; Marryatt; 2; 10.3.1988.; muski; 97979241; 019 Waywood Lane; diplomirani filolog; 11; 1.62; false
+124234; perica; perasifra; Pera; Perić; 0; 1.1.1999.; muski; 05643123143; Perice Perića 19; false
+353453; zikica; zikasifra; Žika; Žikić; 1; 2.2.1999.; muski; 064442312321; Žike Zikića 19; magistar ekonomije; 10; 6.0; false
+265718477; mikica; mikasifra; Mika; Mikić; 2; 3.3.1999.; muski; 0643431231; Mike Mikića 19; magistar filologije; 11; 5.0; false
+1396972464; relse1; KgntK2m; Rosanna; Else; 3; 22.8.1983.; muski; 12234; sdasd; 17000.0; false
+1107149965; ehawkswood0; Fmo0Tt; Elora; Hawkswood; 1; 4.1.1995.; zenski; 96539242; 2 New Castle Circle; diplomirani ekonomicar; 5; 9.77; false
+1906202352; cklemt2; o4hBYa; Cassandra; Klemt; 2; 9.3.1971.; zenski; 54802142; 600 Birchwood Court; doktor filologije; 6; 7.0; false
+1727581982; azay8; t8KNn6lyN3; Angelo; Cay; 3; 17.9.1993.; muski; 3423123; 019 Waywood Lane; 5000.0; false
+456143317; melisa; melisasifra; Melisa; Walpole; 3; 24.8.1980.; zenski; 57889746; 81 Duke Crossing; 6000.0; false
+2068733510; skippaxr; FypRZIY1g; Sybila; Kippax; 3; 26.9.1986.; zenski; 42971701; 7426 Toban Pass; 17000.0; false
+716974200; kpudges; GCXoxvK9; Keelia; Pudge; 3; 2.8.1975.; zenski; 9657702; 98 Oak Place; 29000.0; false
+1775615751; afauguelt; WGRiGWkU; Amara; Fauguel; 3; 26.9.1986.; zenski; 95898968; 810 Lakewood Terrace; 15000.0; false
+1314966829; cgoodlake1d; 8S2DYxRMquh2; Cosmo; Goodlake; 3; 1.3.1990.; zenski; 67953693; 5868 Gulseth Way; 40000.0; false
+8984322; vasa; vasasifra; Vasa; Vasić; 1; 5.1.1995.; muski; 96539242; 2 New Castle Circle; diplomirani ekonomicar; 5; 8.0; false
+2050721811; milan; milansifra; Milan; Milanović; 2; 9.3.1971.; muski; 876742; 601 Birchwood Court; diplomirani filolog; 5; 7.2; false
+1952135615; laza; lazasifra; Laza; Lazić; 3; 4.4.1999.; muski; 0652312314; Laze Lazića 19; 9000.0; false
+848067988; dfefw; wdqwd; Leposav; wdqwdq; 3; 1.1.1991.; muski; 324235345; ergerge; 10000.0; true
+659249443; ; ; efwe; qwdq; 3; 1.1.1991.; muski; 2314312; erregw; 1000.0; true
+1234081774; wdqwd; dqwdq; qwdqwd; wqdqw; 3; 1.1.1991.; muski; 1234234; gergewg; 1000.0; true
+1935898168; rfgerge; gerg; efwegfwe; dcefwef; 3; 1.1.1991.; muski; 34234234; weffwe; 1000.0; false
+605920198; fwef; ewfwef; wefwef; wefwe; 3; 1.1.1992.; muski; 324134; dfwe; 1000.0; true
+840268779; fwefwe; efwef; ewfewf; wefwef; 2; 1.1.1991.; muski; 31231; dgrge; ergerg; 12; 5.0; true
+179252278; edwef; fwefwe; tgfgdf; hgdcfgfdc; 1; 1.1.1991.; muski; 2312313; dfwwgfew; vdrge; 12; 10.0; true

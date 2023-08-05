@@ -1,0 +1,8 @@
+# id; naziv
+42353645;italijanski;false
+768574;španski;false
+778563;ruski;false
+45341;nemački;false
+124234;engleski;false
+1834273421;bugarski;true
+1387215318;bugarski;false

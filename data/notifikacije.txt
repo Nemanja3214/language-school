@@ -1,0 +1,5 @@
+# id;  kursID; naslov; tekst
+967186919;775268761;Podsetnik;Ponesite hemijske olovke
+1543986549;53453123;Podsetnik;Dodaće se i prva lekcija za test
+113493770;4654753;Ispravka;Radjenje testa će trajati sat i po vremena
+994694119;775268761;qweqw;dfdfger

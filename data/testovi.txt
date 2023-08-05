@@ -1,0 +1,8 @@
+# id; naziv; opis; kursId; 
+1742201831;gramatika italijanskog jezika;Učenik ovladava glagolima,imnicama,zamenicama... italijanskog jezika;4654753;false
+564564;kuhinjski elementi;ucenik treba da pokaze da zna da prepozna kuhinjske elemente sa nemackog jezika kao i da ih prevede na isti;53453123;false
+520312249;zivotinje nemackog jezika;ucenik ovladava poznavanjem naziva zivotinja na nemackom jeziku;53453123;false
+217293734;sastav o Koloseumu;Učenik mora da napiše sastav o Koloseumu na ruskom jeziku;775268761;false
+1709800420;Я люблю Москву;Učenik odgovara na pitanja koja su vezana sa tekstom iz udžbenika.;775268761;false
+979686769;Sastav o Rimu;Učenik mora napisati esej na temu grad Rim;4654753;false
+339495386;ењфње;ефњфењ;775268761;true
